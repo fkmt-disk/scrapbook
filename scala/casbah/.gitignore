@@ -1,0 +1,6 @@
+*.CSV
+*.csv
+*.zip
+project/
+target/
+application.conf
