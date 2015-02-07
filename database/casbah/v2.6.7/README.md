@@ -1,4 +1,5 @@
-### 管理者
+
+### 管理者ユーザ
 
 ```javascript
 use admin
@@ -13,7 +14,7 @@ db.createUser({
 > 見れるようにするにはroleに「readWriteAnyDatabase」とかを追加。
 
 
-### 各DBのオーナー
+### 各DBのオーナーユーザ
 
 ```javascript
 use $database
